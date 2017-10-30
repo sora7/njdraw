@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+# Qt Creator
+*.pro.user
+
+# SDL
+SDL
+SDL/*
+
+# build directory
+build
+build/*
